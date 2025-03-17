@@ -7,5 +7,5 @@ def main():
   print(pq.pop())
   print(pq.pop())
   print(pq.pop())
-  if __name__ == "__main__":
+if __name__ == "__main__":
   main()
